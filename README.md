@@ -1,1 +1,4 @@
-# jeu_de_des
+# Jeu de dés
+---
+## Lancement du jeu
+Executez la classe main.py
